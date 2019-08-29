@@ -1,5 +1,5 @@
 
-def add(z,b):
+def sum(a,b):
     return (a+b)
 
 def mul(a,b):
@@ -8,4 +8,4 @@ def mul(a,b):
 def sub(a,b):
     return(a-b)
 
-
+print("MUL",mul(3,3))
