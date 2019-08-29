@@ -1,5 +1,9 @@
 import unittest
 import sys
+import os
+path=os.getcwd()
+path = path ="/../src"
+
 sys.path.append("../src")
 
 import cal
